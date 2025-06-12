@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: MlOps-project
+Version: 0.1
+Requires-Dist: scikit-learn
+Requires-Dist: pandas
+Requires-Dist: joblib
+Requires-Dist: click
+Requires-Dist: flask
+Dynamic: requires-dist
