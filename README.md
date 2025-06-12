@@ -1,6 +1,17 @@
 # CaliforniaHousing
-Prediction model for house pricing - prediction available as request through API or command line
+This is a simple end-to-end MLOps mini-project to predict housing prices in California using a linear regression model.  
+It includes model training, a command-line interface, a REST API, and project packaging using `setuptools`.
 
+---
+
+## 🚀 Features
+
+- 🧠 Model trained with `scikit-learn` on California Housing dataset
+- 🖥️ Command Line Interface (CLI) with `Click`
+- 🌐 REST API with `Flask` to serve predictions
+- 📦 Python packaging with `setuptools`
+
+---
 # Dataset
 Number of Instances: 20640
 
